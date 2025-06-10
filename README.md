@@ -31,7 +31,7 @@ const developer = {
         devOps: ["Docker", "AWS", "CI/CD"],
         tools: ["Git", "VS Code", "IntelliJ IDEA"]
     },
-    currentFocus: "Building scalable AgriTech solutions",
+    currentFocus: "DSA",
     funFact: "5x Hackathon Winner who loves solving real-world problems! 🏆",
     achievements: ["5x Hackathon Winner", "AgriTech Innovator", "Problem Solver"]
 };
