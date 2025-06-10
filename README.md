@@ -3,7 +3,7 @@
   
 # Hi there! 👋 I'm Karthikeya Pagidimarry
 
-### 🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Tech Enthusiast | 🏆 5x Hackathon Winner
+### 🚀 AI/DL/ML Engineer & CyberSecurity Enthusiast | 💡 Problem Solver | 🌟 Tech Enthusiast | 🏆 5x Hackathon Winner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;5x+Hackathon+Winner;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
 
