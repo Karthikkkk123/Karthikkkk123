@@ -1,11 +1,11 @@
 
 <div align="center">
   
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Karthikeya Pagidimarry
 
-### 🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Tech Enthusiast
+### 🚀 Full-Stack Developer | 💡 Problem Solver | 🌟 Tech Enthusiast | 🏆 5x Hackathon Winner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;5x+Hackathon+Winner;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
 
 </div>
 
@@ -15,24 +15,25 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    name: "Karthikeya Pagidimarry",
+    location: "Hyderabad, India",
+    code: ["Python", "Java", "JavaScript", "TypeScript"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue", "Next.js"],
             css: ["Tailwind", "Bootstrap", "Sass"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
+            python: ["Django", "FastAPI", "Flask"],
+            java: ["Spring Boot", "Spring Framework"],
             databases: ["MongoDB", "PostgreSQL", "MySQL"]
         },
         devOps: ["Docker", "AWS", "CI/CD"],
-        tools: ["Git", "VS Code", "Figma"]
+        tools: ["Git", "VS Code", "IntelliJ IDEA"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+    currentFocus: "Building scalable AgriTech solutions",
+    funFact: "5x Hackathon Winner who loves solving real-world problems! 🏆",
+    achievements: ["5x Hackathon Winner", "AgriTech Innovator", "Problem Solver"]
 };
 ```
 
@@ -43,10 +44,10 @@ const developer = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -55,10 +56,10 @@ const developer = {
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,12 +79,12 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthikkkk123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikkkk123&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikkkk123&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,7 +92,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthikkkk123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -100,29 +101,28 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![AgriTech](https://github-readme-stats.vercel.app/api/pin/?username=Karthikkkk123&repo=AgriTech&theme=tokyonight)](https://github.com/Karthikkkk123/AgriTech)
+[![Tredence](https://github-readme-stats.vercel.app/api/pin/?username=Karthikkkk123&repo=Tredence&theme=tokyonight)](https://github.com/Karthikkkk123/Tredence)
 
 </div>
 
 ---
 
-## 🌱 What I'm Currently Learning
+## 🏆 Achievements & Highlights
 
-- 🔥 Advanced React patterns and performance optimization
-- 🤖 Machine Learning with Python and TensorFlow
-- ☁️ Cloud architecture with AWS and serverless technologies
-- 🎨 Advanced UI/UX design principles
+- 🥇 **5x Hackathon Winner** - Consistent performer in competitive programming events
+- 🌱 **AgriTech Innovator** - Passionate about solving agricultural challenges through technology
+- 💡 **Problem Solver** - Love tackling complex real-world problems with innovative solutions
+- 🚀 **Full-Stack Developer** - Proficient in both frontend and backend technologies
 
 ---
 
-## 📝 Latest Blog Posts
+## 🌱 What I'm Currently Learning
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications](https://yourblog.com/react-scalability)
-- [The Future of Web Development](https://yourblog.com/web-dev-future)
-- [Clean Code Principles Every Developer Should Know](https://yourblog.com/clean-code)
-<!-- BLOG-POST-LIST:END -->
+- 🔥 Advanced Python frameworks and microservices architecture
+- 🤖 Machine Learning and AI applications in Agriculture
+- ☁️ Cloud architecture with AWS and serverless technologies
+- 🎨 Modern UI/UX design principles and responsive web design
 
 ---
 
@@ -130,45 +130,44 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeya-pagidimarry/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagidimarrykarthikeya@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikkkk123)
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## 💼 Work Experience & Projects
 
-### 🏢 Senior Developer @ Tech Company
-**📅 2022 - Present**
-- Led development of microservices architecture serving 100k+ users
-- Implemented CI/CD pipelines reducing deployment time by 60%
-- Mentored junior developers and conducted code reviews
+### 🏢 AgriTech Solutions Developer
+**📅 Current Focus**
+- Developing innovative technology solutions for agricultural challenges
+- Building scalable web applications using Python and Java
+- Implementing data-driven solutions for farmers and agricultural businesses
 
-### 🏢 Full-Stack Developer @ Startup
-**📅 2020 - 2022**
-- Built responsive web applications using React and Node.js
-- Designed and implemented RESTful APIs
-- Collaborated with cross-functional teams in agile environment
+### 🏆 Hackathon Journey
+**📅 Multiple Wins**
+- 5x Hackathon Winner with consistent performance
+- Specialized in rapid prototyping and problem-solving
+- Experience in team leadership and collaborative development
 
 ---
 
 ## 🎯 2024 Goals
 
-- [ ] Contribute to 5 open-source projects
-- [ ] Learn and master Docker & Kubernetes
-- [ ] Build a SaaS product from scratch
-- [ ] Speak at a tech conference
-- [ ] Mentor 10+ junior developers
+- [ ] Win 2 more hackathons to reach 7x champion status
+- [ ] Contribute to 10 open-source agricultural technology projects
+- [ ] Build and deploy 3 production-ready AgriTech applications
+- [ ] Master advanced machine learning techniques for agriculture
+- [ ] Mentor upcoming developers in hackathons
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikkkk123&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
@@ -181,22 +180,14 @@ const developer = {
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
-</div>
-
----
-
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🌟 "The best way to predict the future is to create it." - Peter Drucker
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=Karthikkkk123&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Karthikkkk123?label=Follow&style=social)](https://github.com/Karthikkkk123)
 
-**💬 Ask me about anything - I'm happy to help!**
+**💬 Ask me about AgriTech, Python, Java, or hackathon strategies - I'm happy to help!**
 
 </div>
 
